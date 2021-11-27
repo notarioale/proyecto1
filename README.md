@@ -1,2 +1,7 @@
 # proyecto1
-Un nuevo repositorio
+
+Creé 4 clases java nuevas.
+
+# CI 5767078
+# Alejandro Alexander Notario Candia
+
